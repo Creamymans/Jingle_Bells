@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Jingle Bells",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Balatro",
+      "file": "jingles/Balatro_Main_Theme.mp3"
     },
     {
       "game": "Example Game 2",
