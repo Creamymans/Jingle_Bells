@@ -6,6 +6,14 @@
       "file": "jingles/Balatro_Main_Thememp3.wav"
     },
     {
+      "game": "Curse of the Dead Gods",
+      "file": "Curse_of_the_Dead_Gods_Main_Theme.wav"
+    },
+    {
+      "game": "Example Game 2",
+      "file": "jingles/example-game-2.mp3"
+    },
+    {
       "game": "Example Game 2",
       "file": "jingles/example-game-2.mp3"
     }
