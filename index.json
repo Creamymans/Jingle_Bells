@@ -24,6 +24,10 @@
     {
       "game": "Slay the Spire 2",
       "file": "jingles/Slay_The_Spire_Jingle.wav"
+    },
+    {
+      "game": "UFO 50",
+      "file": "jingles/UFO50_Jingle.wav"
     }
   ]
 }
