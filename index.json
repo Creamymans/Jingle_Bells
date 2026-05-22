@@ -28,6 +28,10 @@
     {
       "game": "UFO 50",
       "file": "jingles/UFO50_Jingle.wav"
+    },
+    {
+      "game": "Graveyard Keeper",
+      "file": "jingles/Graveyard_Keeper_Jingle.wav"
     }
   ]
 }
