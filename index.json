@@ -60,6 +60,10 @@
     {
       "game": "Wildfrost",
       "file": "jingles/Wildfrost_Jingle.wav"
+    },
+    {
+      "game": "Stardew Valley",
+      "file": "jingles/Stardew_Valley_Jingle.wav"
     }
   ]
 }
