@@ -32,6 +32,10 @@
     {
       "game": "Graveyard Keeper",
       "file": "jingles/Graveyard_Keeper_Jingle.wav"
+    },
+    {
+      "game": "Hades",
+      "file": "jingles/Hades_Jingle.wav"
     }
   ]
 }
