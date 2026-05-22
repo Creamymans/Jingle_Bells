@@ -20,6 +20,10 @@
     {
       "game": "Skul: The Hero Slayer",
       "file": "jingles/Skul_The_Hero_Slayer_Jingle.wav"
+    },
+    {
+      "game": "Slay the Spire 2",
+      "file": "jingles/Slay_The_Spire_Jingle.wav"
     }
   ]
 }
