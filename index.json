@@ -36,6 +36,30 @@
     {
       "game": "Hades",
       "file": "jingles/Hades_Jingle.wav"
+    },
+    {
+      "game": "Colt Canyon",
+      "file": "jingles/Colt_Canyon_Jingle.wav"
+    },
+    {
+      "game": "Children of Morta",
+      "file": "jingles/Children_of_Morta_Jingle.wav"
+    },
+    {
+      "game": "Megabonk",
+      "file": "jingles/Megabonk_Jingle.wav"
+    },
+    {
+      "game": "Darksiders II Deathinitive Edition",
+      "file": "jingles/Darthsiders_Jingle.wav"
+    },
+    {
+      "game": "Enter the Gungeon",
+      "file": "jingles/Enter_the_Gungeon_Jingle.wav"
+    },
+    {
+      "game": "Wildfrost",
+      "file": "jingles/Wildfrost_Jingle.wav"
     }
   ]
 }
