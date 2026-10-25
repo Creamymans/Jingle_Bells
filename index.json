@@ -64,6 +64,10 @@
     {
       "game": "Stardew Valley",
       "file": "jingles/Stardew_Valley_Jingle.wav"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "file": "jingles/The_Binding_of_Isaac_Jingle.wav"
     }
   ]
 }
