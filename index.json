@@ -72,6 +72,10 @@
     {
       "game": "Loop Hero",
       "file": "jingles/Loop_Hero_Jingle.WAV"
+    },
+    {
+    "game": "Double Dragon Gaiden: Rise of the Dragons"
+    "file": "jingles/Double_Dragon_Gaiden_Jingle.WAV"
     }
   ]
 }
