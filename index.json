@@ -68,6 +68,10 @@
     {
       "game": "The Binding of Isaac: Rebirth",
       "file": "jingles/The_Binding_of_Isaac_Jingle.WAV"
+    },
+    {
+      "game": "Loop Hero",
+      "file": "jingles/Loop_Hero_Jingle.WAV"
     }
   ]
 }
